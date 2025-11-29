@@ -80,6 +80,13 @@ header p {
     color: hsl(14, 45%, 36%);
 }
 
+hr {
+    border: none;
+    border-top: 1px solid hsl(30, 10%, 60%);
+    width: 100%;
+    margin: 20px 0;
+}
+
 main {
     display: flex;
     flex-direction: column;
